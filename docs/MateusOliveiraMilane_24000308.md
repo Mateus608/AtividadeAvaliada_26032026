@@ -88,7 +88,7 @@ Liste os RNFs do sistema conforme seu MVP.
 ---
 
 ## **UC02 — Consultar Produto**
-**Ator(es):** Atendente
+**Ator(es):** Atendente  
 **Descrição:** Permite buscar um produto pelo nome, código de barras ou fabricante. 
 **Pré-condições:** O usuário deve estar autenticado. 
 **Pós-condições:** O produto consultado é exibido com suas informações básicas. 
