@@ -13,6 +13,7 @@ Meu MVP foca no atendimento no balcão e no processo de venda, por ser a parte m
 Ficam de fora módulos mais complexos, como compras, contas a pagar, relatórios avançados e integração entre unidades.
 
 Escolhi esse escopo para manter o projeto viável, focando no essencial e resolvendo um problema real sem deixar o sistema grande demais.
+
 ---
 
 # 2. Regras de Negócio (mínimo: 5)
